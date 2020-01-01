@@ -45,6 +45,7 @@
     * Apply
 * Jamie GED
 * Jamie Start Bachelors one August
+* 2 Day Rule
 
 # Bucket List
 * Buy a house
@@ -53,3 +54,4 @@
 * Save $30’000 
 * Stream on Twitch
 * Start making a game 
+* Pescatarian 
