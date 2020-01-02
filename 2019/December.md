@@ -3,7 +3,7 @@
 - [x] Relax 
 - [x] Figure out health insurance 
 - [ ] Call health insurance people
-- [ ] Write New Years Resolutions
+- [x] Write New Years Resolutions
 
 ## Personal Business 
 - [x] Set up Flutter
