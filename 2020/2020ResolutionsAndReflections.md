@@ -37,6 +37,8 @@
 * Personal Business
     * 500 subs 
     * 100 readers per month 
+    * Post once a month on blog
+    * Make 5 videos
 * Paperless Bullet Journaling 
 * Start Masters in August
     * Get a master professor 
