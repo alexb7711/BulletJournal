@@ -11,6 +11,7 @@
 
 ## Work 
 - [ ] Bring mug to work for tea
+- [ ] Walk a mile a day
 
 ## Business 
 - [ ] Create Home Page on Website
