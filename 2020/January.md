@@ -12,6 +12,7 @@
 ## Work 
 - [ ] Bring mug to work for tea
 - [ ] Walk a mile a day
+- [ ] Mark Days off on Google Calendar
 
 ## Business 
 - [ ] Create Home Page on Website
