@@ -22,3 +22,4 @@
 - [ ] Set up AdSense on website 
 - [ ] Set up commenting on website 
 - [ ] Set up traffic flow stuff for website 
+- [ ] Figure out what Jamie would like with web scraper script 
