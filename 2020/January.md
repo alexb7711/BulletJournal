@@ -9,12 +9,19 @@
 
 ## School
 - [X] Check if USU is back (Started Jan 6)
-- [ ] Call Dr Christensen (Tuesdays/Thursdays from 11:45-1:20)
+- [X] Call Dr Christensen (Tuesdays/Thursdays from 11:45-1:20)
+    * Can get PhD Directly
+    * Working at SDL
+        * 3/4 hours (1/4 of the time goes to school)
+        * Dr Droge is probably the better option for me
+        * He would be a good advisor (not major professor)
+    * SMART? Doesn't really seem to exist anymore
 
 ## Work 
 - [X] Bring mug to work for tea
 - [ ] Walk a mile a day
 - [X] Mark Days off on Google Calendar
+- [X] Talk To Kristine about School Stuff
 
 ## Business 
 - [ ] Create Home Page on Website
