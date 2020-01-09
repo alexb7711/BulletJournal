@@ -16,6 +16,8 @@
         * Dr Droge is probably the better option for me
         * He would be a good advisor (not major professor)
     * SMART? Doesn't really seem to exist anymore
+- [ ] Decide if I want to do my PhD
+    - [ ] Talk to Mom/Dad about it
 
 ## Work 
 - [X] Bring mug to work for tea
@@ -24,7 +26,8 @@
 - [X] Talk To Kristine about School Stuff
 
 ## Business 
-- [ ] Create Home Page on Website
+- [X] Create Home Page on Website
+- [ ] Update website description
 - [ ] Start Workout App
 - [X] Start writing how to install flutter 
 - [ ] Finish writing how to install flutter (Android Studio Setup) 
