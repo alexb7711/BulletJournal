@@ -30,7 +30,7 @@
 - [ ] Update website description
 - [ ] Start Workout App
 - [X] Start writing how to install flutter 
-- [ ] Finish writing how to install flutter (Android Studio Setup) 
+- [X] Finish writing how to install flutter (Android Studio Setup) 
 - [ ] Set up AdSense on website 
 - [ ] Set up static comments on website 
 - [ ] Set up traffic flow stuff for website 
