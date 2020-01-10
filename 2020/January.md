@@ -5,6 +5,7 @@
 - [ ] Call Swiss Embacy 
 - [ ] ~~Set up Curtain in house~~ > (Push to next week)
 - [X] Set up monitor switcher script
+- [ ] Simplify monitor switcher script (grep -w)
 - [ ] Set up st terminal
 
 ## School
