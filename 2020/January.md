@@ -44,6 +44,7 @@
 - [ ] Call Swiss Embacy ➤ ???
 - [ ] Set up Curtain in house 
 - [ ] Set up st terminal
+- [ ] Check how many days I have off
 
 ## School
 - [ ] Email Droge about getting PhD
