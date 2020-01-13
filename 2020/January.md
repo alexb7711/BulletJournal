@@ -44,18 +44,20 @@
 - [ ] Call Swiss Embacy ➤ ???
 - [ ] Set up Curtain in house 
 - [ ] Set up st terminal
+- [ ] Set up mutt
 - [X] Check how many days I have off ➤ 27 hours
 
 ## School
-- [ ] Email Droge about getting PhD
+- [X] Email Droge about getting PhD
 	* What are the benefits of getting a PhD 
 	* Pros/cons of getting PhD directly (if there are any)
 	* Thoughts on this route 
-- [ ] Email Dr. Truscott about decision
-- [ ] Email Dr. Christensen about decision
+- [X] Email Dr. Truscott about decision
+- [X] Email Dr. Christensen about decision
 
 ## Work 
 - [ ] Walk a mile a day
+- [ ] Understand code base better
 
 ## Business
 - [ ] Revise Setting up Flutter script
