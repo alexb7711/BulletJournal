@@ -44,7 +44,7 @@
 - [ ] Call Swiss Embacy ➤ ???
 - [ ] Set up Curtain in house 
 - [ ] Set up st terminal
-- [ ] Check how many days I have off
+- [X] Check how many days I have off ➤ 27 hours
 
 ## School
 - [ ] Email Droge about getting PhD
