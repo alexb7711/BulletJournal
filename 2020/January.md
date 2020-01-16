@@ -40,11 +40,11 @@
 # January 13 - January 19
 ## Personal
 - [ ] 2 Day Rule 
-- [ ] Workout 5/7 days 
+- [X] Workout 5/7 days ➤ Jamie got sick
 - [ ] Call Swiss Embacy ➤ ???
 - [ ] Set up Curtain in house 
 - [ ] Set up st terminal
-- [ ] Set up mutt
+- [X] Set up mutt ➤ Tried, having some difficulties. Need to do some research.
 - [X] Check how many days I have off ➤ 27 hours
 
 ## School
@@ -54,15 +54,17 @@
 	* Thoughts on this route 
 - [X] Email Dr. Truscott about decision
 - [X] Email Dr. Christensen about decision
+- [ ] See if Dr. Truscott replies, if not bump him.
 
 ## Work 
 - [ ] Walk a mile a day
 - [ ] Understand code base better
 
 ## Business
-- [ ] Revise Setting up Flutter script
-- [ ] Post to blog
-- [ ] Update website description
+- [X] Revise Setting up Flutter script
+- [X] Post to blog
+- [X] Update website description ➤ I think it is good for now. If I think of something better I can update it.
 - [ ] Start Workout App
 - [ ] Set up AdSense on website
 - [ ] Set up traffic flow stuff for website
+- [ ] Start New Script
