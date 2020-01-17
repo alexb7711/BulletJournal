@@ -54,15 +54,17 @@
 	* Thoughts on this route 
 - [X] Email Dr. Truscott about decision
 - [X] Email Dr. Christensen about decision
+- [ ] Check if Tadd emails back, contact him if he doesn't
 
 ## Work 
 - [ ] Walk a mile a day
 - [ ] Understand code base better
 
 ## Business
-- [ ] Revise Setting up Flutter script
-- [ ] Post to blog
-- [ ] Update website description
+- [X] Revise Setting up Flutter script
+- [X] Post to blog
+- [X] Update website description
 - [ ] Start Workout App
 - [ ] Set up AdSense on website
-- [ ] Set up traffic flow stuff for website
+- [X] Set up traffic flow stuff for website
+- [ ] Start new blog post
