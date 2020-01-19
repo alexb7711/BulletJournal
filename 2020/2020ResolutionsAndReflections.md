@@ -48,6 +48,9 @@
 * Jamie GED
 * Jamie Start Bachelors one August
 * 2 Day Rule
+* Lose 5 lbs
+* Get more tone
+    * Track Calories
 
 # Bucket List
 * Buy a house
