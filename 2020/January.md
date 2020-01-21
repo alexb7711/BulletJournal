@@ -83,6 +83,7 @@
 ## Work 
 - [ ] Walk a mile a day
 - [ ] Understand code base better
+- [ ] Figure out what a .lint file is
 
 ## Business
 - [ ] Start Workout App 
