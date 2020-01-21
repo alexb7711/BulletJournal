@@ -17,7 +17,7 @@
         * Dr Droge is probably the better option for me
         * He would be a good advisor (not major professor)
     * SMART? Doesn't really seem to exist anymore
-- [ ] Decide if I want to do my PhD ➤ Talk to Droge about it
+- [X] Decide if I want to do my PhD ➤ Talk to Droge about it
     - [X] Talk to Mom/Dad about it
 
 ## Work 
@@ -39,7 +39,7 @@
 
 # January 13 - January 19
 ## Personal
-- [ ] 2 Day Rule 
+- [X] 2 Day Rule 
 - [X] Workout 5/7 days ➤ Jamie got sick
 - [ ] Call Swiss Embacy ➤ ???
 - [X] Set up Curtain in house 
@@ -68,3 +68,22 @@
 - [ ] Set up AdSense on website ➤
 - [X] Set up traffic flow stuff for website
 - [X] Start New Script
+
+# January 20 - January 26
+## Personal
+- [ ] 2 Day Rule 
+- [ ] Workout 5/7 days
+- [ ] Call Swiss Embacy ➤ ???
+- [ ] Plane ticket
+
+## School
+- [ ] Figure out if using tuition assistance requires payback period
+- [ ] See if Dr. Truscott replies, if not bump him.
+
+## Work 
+- [ ] Walk a mile a day
+- [ ] Understand code base better
+
+## Business
+- [ ] Start Workout App 
+- [ ] Set up AdSense on website 
