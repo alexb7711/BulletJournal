@@ -75,6 +75,7 @@
 - [ ] Workout 5/7 days
 - [ ] Call Swiss Embacy ➤ ???
 - [ ] Plane ticket
+- [ ] Cut nails
 
 ## School
 - [ ] Figure out if using tuition assistance requires payback period
