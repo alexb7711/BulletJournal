@@ -74,18 +74,19 @@
 - [ ] 2 Day Rule 
 - [ ] Workout 5/7 days
 - [ ] Call Swiss Embacy ➤ ???
-- [ ] Plane ticket
-- [ ] Cut nails
+- [X] Plane ticket ➤ 
+- [X] Cut nails
 
 ## School
-- [ ] Figure out if using tuition assistance requires payback period
+- [X] Figure out if using tuition assistance requires payback period ➤ Doesn't seem like it, but I need to ask the person that I get assigned to if accepted.
 - [ ] See if Dr. Truscott replies, if not bump him.
 
 ## Work 
 - [ ] Walk a mile a day
 - [ ] Understand code base better
-- [ ] Figure out what a .lint file is
+- [X] Figure out what a .lint file is
 
 ## Business
-- [ ] Start Workout App 
+- [ ] Start Building a Game Framwork with SFML ([https://github.com/Hopson97/SFML-Game-Framework](https://github.com/Hopson97/SFML-Game-Framework))
+- [ ] Start Workout App? 
 - [ ] Set up AdSense on website 
