@@ -74,12 +74,13 @@
 - [ ] 2 Day Rule 
 - [ ] Workout 5/7 days
 - [ ] Call Swiss Embacy ➤ ???
-- [X] Plane ticket ➤ 
+- [X] Plane ticket ➤ End of March
 - [X] Cut nails
 
 ## School
 - [X] Figure out if using tuition assistance requires payback period ➤ Doesn't seem like it, but I need to ask the person that I get assigned to if accepted.
-- [ ] See if Dr. Truscott replies, if not bump him.
+- [x] See if Dr. Truscott replies, if not bump him.
+- [ ] Check if Truscott replies
 
 ## Work 
 - [ ] Walk a mile a day
