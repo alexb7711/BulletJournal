@@ -34,28 +34,31 @@
 * I need personal side projects 
 
 # What to work on next year 
-* Personal Business
-    * 500 subs 
-    * 100 readers per month 
-    * Post once a month on blog
-    * Make 5 videos
-* Paperless Bullet Journaling 
-* Start Masters in August
-    * Get a master professor 
-    * Get a committee
-    * Get letter of recommendation 
-    * Apply
-* Jamie GED
-* Jamie Start Bachelors one August
-* 2 Day Rule
-* Lose 5 lbs
-* Get more tone
-    * Track Calories
+- [ ] Personal Business
+    - [ ] Reach 500 subs 
+    - [ ] Reach 100 readers per month 
+    - [ ] Post once a month on blog
+    - [ ] Make 5 videos
+- [X] Paperless Bullet Journaling 
+- [ ] Start PhD in August
+    - [X] Get a major professor 
+    - [ ] Get a committee
+    - [ ] Get letter of recommendation 
+    - [ ] Apply
+- [ ] Jamie GED
+- [ ] Jamie start Bachelor's
+- [ ] 2 Day Rule
+- [ ] Lose 5 lbs
+- [ ] Get more tone
+    - [ ] Track Calories
+- [ ] Build my Workout App
+- [ ] Create a Game Framework with SFML
+- [ ] Make a Game
+- [ ] Go to Florida
 
 # Bucket List
 * Buy a house
 * Get a dog
-* Go to Florida
 * Save $30’000 
 * Stream on Twitch
 * Start making a game 
