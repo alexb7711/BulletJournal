@@ -90,3 +90,4 @@
 - [ ] Start Building a Game Framwork with SFML ([https://github.com/Hopson97/SFML-Game-Framework](https://github.com/Hopson97/SFML-Game-Framework))
 - [ ] Start Workout App? 
 - [ ] Set up AdSense on website 
+- [ ] Search engine optimization for Google
