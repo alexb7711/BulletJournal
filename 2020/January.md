@@ -71,8 +71,8 @@
 
 # January 20 - January 26
 ## Personal
-- [ ] 2 Day Rule 
-- [ ] Workout 5/7 days
+- [X] 2 Day Rule ➤
+- [ ] Workout 5/7 days ➤ Jamie and I got ill
 - [ ] Call Swiss Embacy ➤ ???
 - [X] Plane ticket ➤ End of March
 - [X] Cut nails
@@ -80,15 +80,38 @@
 ## School
 - [X] Figure out if using tuition assistance requires payback period ➤ Doesn't seem like it, but I need to ask the person that I get assigned to if accepted.
 - [x] See if Dr. Truscott replies, if not bump him.
-- [ ] Check if Truscott replies
+- [ ] Check if Truscott replies ➤ Never replied
+
+## Work 
+- [X] Walk a mile a day ➤
+- [X] Understand code base better ➤
+- [X] Figure out what a .lint file is
+
+## Business
+- [ ] Start Building a Game Framwork with SFML ([https://github.com/Hopson97/SFML-Game-Framework](https://github.com/Hopson97/SFML-Game-Framework)) ➤ Should do research first
+- [ ] Start Workout App? ➤ Was ricing the PC
+- [ ] Set up AdSense on website ➤ Make sure that it can be google searched
+- [ ] Search engine optimization for Google ➤
+
+# January 27 - Febuary 2
+## Personal
+- [ ] 2 Day Rule 
+- [ ] Workout 5/7 days
+- [ ] Call Swiss Embacy ➤ ???
+
+## School
+- [ ] Check if Tadd replies
+- [ ] Bump Tadd
 
 ## Work 
 - [ ] Walk a mile a day
 - [ ] Understand code base better
-- [X] Figure out what a .lint file is
 
 ## Business
-- [ ] Start Building a Game Framwork with SFML ([https://github.com/Hopson97/SFML-Game-Framework](https://github.com/Hopson97/SFML-Game-Framework))
+- [ ] Start researching SFML ([https://github.com/Hopson97/SFML-Game-Framework](https://github.com/Hopson97/SFML-Game-Framework))
 - [ ] Start Workout App? 
-- [ ] Set up AdSense on website 
-- [ ] Search engine optimization for Google
+- [ ] Update color scheme of notification 
+- [ ] Website
+	- [ ] Search engine optimization for Google
+	- [ ] Post 
+	- [ ] Set up AdSense on website 
