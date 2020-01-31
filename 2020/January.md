@@ -100,15 +100,15 @@
 - [ ] Call Swiss Embacy ➤ ???
 
 ## School
-- [ ] Check if Tadd replies
+- [X] Check if Tadd replies
 - [ ] Bump Tadd
 
 ## Work 
-- [ ] Walk a mile a day
-- [ ] Understand code base better
+- [X] Walk a mile a day
+- [X] Understand code base better
 
 ## Business
-- [ ] Start researching SFML ([https://github.com/Hopson97/SFML-Game-Framework](https://github.com/Hopson97/SFML-Game-Framework))
+- [X] Start researching SFML ([https://github.com/Hopson97/SFML-Game-Framework](https://github.com/Hopson97/SFML-Game-Framework))
 - [ ] Start Workout App? 
 - [ ] Update color scheme of notification 
 - [ ] Website
