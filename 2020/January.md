@@ -95,13 +95,13 @@
 
 # January 27 - Febuary 2
 ## Personal
-- [ ] 2 Day Rule 
-- [ ] Workout 5/7 days
+- [X] 2 Day Rule 
+- [X] Workout 5/7 days
 - [ ] Call Swiss Embacy ➤ ???
 
 ## School
 - [X] Check if Tadd replies
-- [ ] Bump Tadd
+- [ ] Bump Tadd ➤ Pushed to next week
 
 ## Work 
 - [X] Walk a mile a day
@@ -109,9 +109,9 @@
 
 ## Business
 - [X] Start researching SFML ([https://github.com/Hopson97/SFML-Game-Framework](https://github.com/Hopson97/SFML-Game-Framework))
-- [ ] Start Workout App? 
-- [ ] Update color scheme of notification 
+- [ ] Start Workout App? ➤
+- [X] Update color scheme of notification (dunst) 
 - [ ] Website
 	- [ ] Search engine optimization for Google
-	- [ ] Post 
-	- [ ] Set up AdSense on website 
+	- [ ] Post ➤ Still figuring out search engine stuff
+	- [ ] Set up AdSense on website ➤
