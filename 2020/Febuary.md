@@ -39,6 +39,7 @@
 
 ### School
 - [ ] Bump Tadd
+- [ ] Email Droge and update him on where I am at
 
 ### Work
 - [ ] Have a better attitude at work
