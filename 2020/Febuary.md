@@ -38,8 +38,9 @@
 - [X] Jamie faxes Workforce services papers
 
 ### School
-- [ ] Bump Tadd
-- [ ] Email Droge and update him on where I am at
+- [X] Bump Tadd
+- [X] Email Droge and update him on where I am at
+- [ ] Apply to USU PhD
 
 ### Work
 - [ ] Have a better attitude at work
