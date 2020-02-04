@@ -35,7 +35,7 @@
 ### Personal
 - [ ] 2 Day Rule
 - [ ] Workout 5/7 Days
-- [ ] Jamie faxes Workforce services papers
+- [X] Jamie faxes Workforce services papers
 
 ### School
 - [ ] Bump Tadd
