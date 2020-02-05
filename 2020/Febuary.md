@@ -41,6 +41,10 @@
 - [X] Bump Tadd
 - [X] Email Droge and update him on where I am at
 - [ ] Apply to USU PhD
+    - [ ] Fix Resume
+    - [ ] Update Resume
+    - [ ] Send Transcript to USU
+    - [ ] Write 500 Word Paper. 
 
 ### Work
 - [ ] Have a better attitude at work
