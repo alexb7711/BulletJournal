@@ -45,7 +45,7 @@
     - [X] Update Resume
     - [X] Send Transcript to USU
     - [ ] Figure out GRE Scores
-    - [ ] Ask Kristine to write letter of recommendation
+    - [X] Ask Kristine to write letter of recommendation
     - [ ] Write 500 Word Paper. 
 
 ### Work
