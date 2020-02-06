@@ -47,6 +47,8 @@
     - [ ] Figure out GRE Scores
     - [X] Ask Kristine to write letter of recommendation
     - [ ] Write 500 Word Paper. 
+    - [ ] Add Courtney Flint to letter of recommendation
+    - [ ] Add Kristine Tran to letter of recommendation
 
 ### Work
 - [ ] Have a better attitude at work
