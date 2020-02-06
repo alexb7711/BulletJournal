@@ -41,9 +41,11 @@
 - [X] Bump Tadd
 - [X] Email Droge and update him on where I am at
 - [ ] Apply to USU PhD
-    - [ ] Fix Resume
-    - [ ] Update Resume
-    - [ ] Send Transcript to USU
+    - [X] Fix Resume
+    - [X] Update Resume
+    - [X] Send Transcript to USU
+    - [ ] Figure out GRE Scores
+    - [ ] Ask Kristine to write letter of recommendation
     - [ ] Write 500 Word Paper. 
 
 ### Work
