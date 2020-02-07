@@ -59,6 +59,6 @@
 - [X] Walk a mile a day
 
 ### Hobby
-- [ ] Get website on Google search radar
+- [X] Get website on Google search radar > I think I finished it
 - [ ] Start project
 - [ ] Work on hobby 5 hours
