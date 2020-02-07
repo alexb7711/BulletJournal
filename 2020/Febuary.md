@@ -44,16 +44,16 @@
     - [X] Fix Resume
     - [X] Update Resume
     - [X] Send Transcript to USU
-    - [ ] Figure out GRE Scores
+    - [X] Figure out GRE Scores
     - [X] Ask Kristine to write letter of recommendation
     - [ ] Write 500 Word Paper. 
-    - [ ] Add Courtney Flint to letter of recommendation
-    - [ ] Add Kristine Tran to letter of recommendation
+    - [X] Add Courtney Flint to letter of recommendation
+    - [X] Add Kristine Tran to letter of recommendation
 
 ### Work
-- [ ] Have a better attitude at work
-- [ ] Understand code base better
-- [ ] Walk a mile a day
+- [X] Have a better attitude at work
+- [ ] Understand code base better > Simulator died == production died :(
+- [X] Walk a mile a day
 
 ### Hobby
 - [ ] Get website on Google search radar
