@@ -48,7 +48,7 @@
     - [X] Ask Kristine to write letter of recommendation
     - [ ] Write 500 Word Paper. 
     	- [X] Complete Draft
-	- [ ] Get Draft reviewed by 5 people > Reviewed by 4, going to send it to USU
+	- [X] Get Draft reviewed by 5 people > Reviewed by 4, going to send it to USU
 	- [X] Update Draft based on reviews
     - [X] Add Courtney Flint to letter of recommendation
     - [X] Add Kristine Tran to letter of recommendation
@@ -72,8 +72,8 @@
 - [ ] Apply to USU PhD
     - [ ] Write Statement of Purpose
     	- [X] Complete Draft
-	- [ ] Format Resume
-	- [ ] Format Statement of Purpose
+	- [X] Format Resume
+	- [X] Format Statement of Purpose
 	- [ ] Get Draft reviewed by USU
 	- [ ] Update Draft based on reviews
 
