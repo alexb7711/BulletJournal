@@ -85,5 +85,7 @@
 
 ### Hobby
 - [ ] Start Flutter App
-- [ ] Write post on 
+- [ ] Write post on: 
+	- [ ] How I organize my year, week, day
+	- [ ] Markdown, pandoc, compile script
 - [ ] Work on hobby 5 hours
