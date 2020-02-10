@@ -60,13 +60,14 @@
 
 ### Hobby
 - [X] Get website on Google search radar > It worked!
-- [ ] Start project
-- [ ] Work on hobby 5 hours
+- [ ] Start project > School stuff started kicking in
+- [ ] Work on hobby 5 hours > Wasn't fully 5 hours, school stuff started kicking in
 
 ## February 10 - February 16 
 ### Personal
 - [ ] 2 Day Rule
 - [ ] Workout 5/7 Days
+- [ ] Spend Valentines Day with Jamie
 
 ### School
 - [ ] Apply to USU PhD
