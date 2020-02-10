@@ -43,18 +43,16 @@
 - [ ] Start PhD in August
     - [X] Get a major professor 
     - [ ] Get a committee
-    - [ ] Get letter of recommendation 
-    - [ ] Apply
+    - [X] Get letter of recommendation > (got 3)
+    - [X] Apply
 - [ ] Jamie GED
 - [ ] Jamie start Bachelor's
 - [ ] 2 Day Rule
-- [ ] Lose 5 lbs
-- [ ] Get more tone
-    - [ ] Track Calories
-- [ ] Build my Workout App
+- [ ] Build Workout App
 - [ ] Create a Game Framework with SFML
-- [ ] Make a Game
-- [ ] Go to Florida
+    - [ ] Make a Game
+- [X] Go to Florida
+- [ ] Read 5 Books
 
 # Bucket List
 * Buy a house
