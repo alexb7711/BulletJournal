@@ -33,14 +33,14 @@
 
 ## February 3 - February 9 
 ### Personal
-- [ ] 2 Day Rule
-- [ ] Workout 5/7 Days
+- [X] 2 Day Rule
+- [X] Workout 5/7 Days
 - [X] Jamie faxes Workforce services papers
 
 ### School
 - [X] Bump Tadd
 - [X] Email Droge and update him on where I am at
-- [ ] Apply to USU PhD
+- [ ] Apply to USU PhD > 
     - [X] Fix Resume
     - [X] Update Resume
     - [X] Send Transcript to USU
@@ -48,8 +48,8 @@
     - [X] Ask Kristine to write letter of recommendation
     - [ ] Write 500 Word Paper. 
     	- [X] Complete Draft
-	- [ ] Get Draft reviewed by 5 people
-	- [ ] Update Draft based on reviews
+	- [ ] Get Draft reviewed by 5 people > Reviewed by 4, going to send it to USU
+	- [X] Update Draft based on reviews
     - [X] Add Courtney Flint to letter of recommendation
     - [X] Add Kristine Tran to letter of recommendation
 
@@ -59,6 +59,30 @@
 - [X] Walk a mile a day
 
 ### Hobby
-- [X] Get website on Google search radar > I think I finished it
+- [X] Get website on Google search radar > It worked!
 - [ ] Start project
+- [ ] Work on hobby 5 hours
+
+## February 10 - February 16 
+### Personal
+- [ ] 2 Day Rule
+- [ ] Workout 5/7 Days
+
+### School
+- [ ] Apply to USU PhD
+    - [ ] Write Statement of Purpose
+    	- [X] Complete Draft
+	- [ ] Format Resume
+	- [ ] Format Statement of Purpose
+	- [ ] Get Draft reviewed by USU
+	- [ ] Update Draft based on reviews
+
+### Work
+- [ ] Have a better attitude at work
+- [ ] Understand code base better > Simulator died == production died :(
+- [ ] Walk a mile a day
+
+### Hobby
+- [ ] Start Flutter App
+- [ ] Write post on 
 - [ ] Work on hobby 5 hours
