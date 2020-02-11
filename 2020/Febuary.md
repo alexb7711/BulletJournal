@@ -75,6 +75,7 @@
     	- [X] Complete Draft
 	- [X] Format Resume
 	- [X] Format Statement of Purpose
+	- [ ] If Scheaffer does not reply, submit tonight (February 11)
 	- [ ] Get Draft reviewed by USU
 	- [ ] Update Draft based on reviews
 
@@ -84,8 +85,9 @@
 - [ ] Walk a mile a day
 
 ### Hobby
-- [ ] Start Flutter App
+- [X] Start Flutter App
+	- [ ] Framework the Home Page?
 - [ ] Write post on: 
 	- [ ] How I organize my year, week, day
-	- [ ] Markdown, pandoc, compile script
+	- [X] Markdown, pandoc, compile script
 - [ ] Work on hobby 5 hours
