@@ -70,14 +70,14 @@
 - [ ] Spend Valentines Day with Jamie
 
 ### School
-- [ ] Apply to USU PhD
-    - [ ] Write Statement of Purpose
+- [X] Apply to USU PhD
+    - [X] Write Statement of Purpose
     	- [X] Complete Draft
 	- [X] Format Resume
 	- [X] Format Statement of Purpose
-	- [ ] If Scheaffer does not reply, submit tonight (February 11)
-	- [ ] Get Draft reviewed by USU
-	- [ ] Update Draft based on reviews
+	- [X] If Scheaffer does not reply, submit tonight (February 11)
+	- [X] Get Draft reviewed by USU
+	- [X] Update Draft based on reviews
 
 ### Work
 - [ ] Have a better attitude at work
@@ -90,4 +90,4 @@
 - [ ] Write post on: 
 	- [ ] How I organize my year, week, day
 	- [X] Markdown, pandoc, compile script
-- [ ] Work on hobby 5 hours
+- [X] Work on hobby 5 hours
