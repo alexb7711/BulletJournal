@@ -67,7 +67,7 @@
 ### Personal
 - [ ] 2 Day Rule
 - [ ] Workout 5/7 Days
-- [ ] Spend Valentines Day with Jamie
+- [X] Spend Valentines Day with Jamie
 
 ### School
 - [X] Apply to USU PhD
@@ -80,14 +80,14 @@
 	- [X] Update Draft based on reviews
 
 ### Work
-- [ ] Have a better attitude at work
+- [X] Have a better attitude at work
 - [ ] Understand code base better > Simulator died == production died :(
-- [ ] Walk a mile a day
+- [X] Walk a mile a day
 
 ### Hobby
 - [X] Start Flutter App
 	- [ ] Framework the Home Page?
-- [ ] Write post on: 
-	- [ ] How I organize my year, week, day
+- [X] Write post on: 
+	- [X] How I organize my year, week, day 
 	- [X] Markdown, pandoc, compile script
 - [X] Work on hobby 5 hours
