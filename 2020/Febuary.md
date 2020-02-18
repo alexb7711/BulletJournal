@@ -65,8 +65,8 @@
 
 ## February 10 - February 16 
 ### Personal
-- [ ] 2 Day Rule
-- [ ] Workout 5/7 Days
+- [X] 2 Day Rule
+- [X] Workout 5/7 Days
 - [X] Spend Valentines Day with Jamie
 
 ### School
@@ -86,8 +86,29 @@
 
 ### Hobby
 - [X] Start Flutter App
-	- [ ] Framework the Home Page?
+	- [ ] Framework the Home Page? > Still Working on it
 - [X] Write post on: 
 	- [X] How I organize my year, week, day 
 	- [X] Markdown, pandoc, compile script
 - [X] Work on hobby 5 hours
+
+## February 17 - February 23 
+### Personal
+- [ ] 2 Day Rule
+- [ ] Workout 5/7 Days
+- [ ] 2 hours of quality time with Jamie per day
+- [ ] In bed before 10 pm evrey day
+
+### School
+- [ ] Meeting with Scheaffer
+
+### Work
+- [ ] Have a better attitude at work
+- [ ] Understand code base better > Simulator died == production died :(
+- [ ] Walk a mile a day
+
+### Hobby
+- [ ] Fix ImageButton 
+- [ ] Framework Home Page
+- [ ] Finish post on organizing my year, week, day 
+- [ ] Work on hobby 5 hours
