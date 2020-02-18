@@ -106,6 +106,7 @@
 - [ ] Have a better attitude at work
 - [ ] Understand code base better > Simulator died == production died :(
 - [ ] Walk a mile a day
+- [ ] Learn about Ethernet Protocol
 
 ### Hobby
 - [ ] Fix ImageButton 
