@@ -63,6 +63,8 @@
 - [ ] Start project > School stuff started kicking in
 - [ ] Work on hobby 5 hours > Wasn't fully 5 hours, school stuff started kicking in
 
+---
+
 ## February 10 - February 16 
 ### Personal
 - [X] 2 Day Rule
@@ -92,24 +94,72 @@
 	- [X] Markdown, pandoc, compile script
 - [X] Work on hobby 5 hours
 
+---
+
 ## February 17 - February 23 
+### Personal
+- [X] 2 Day Rule
+- [X] Workout 5/7 Days
+- [X] 2 hours of quality time with Jamie per day
+- [X] In bed before 10 pm evrey day
+
+### School
+- [X] Meeting with Scheaffer
+
+### Work
+- [X] Have a better attitude at work
+- [X] Understand code base better > Fixed :)
+- [X] Walk a mile a day
+- [X] Learn about Ethernet Protocol
+
+### Hobby
+- [X] Fix ImageButton 
+- [ ] Framework Home Page > 
+- [ ] Finish post on organizing my year, week, day > 
+- [X] Work on hobby 5 hours
+
+---
+
+## February 17 - February 23 
+### Personal
+- [X] 2 Day Rule
+- [X] Workout 5/7 Days
+- [X] 2 hours of quality time with Jamie per day
+- [X] In bed before 10 pm evrey day
+
+### School
+- [X] Meeting with Scheaffer
+
+### Work
+- [X] Have a better attitude at work
+- [X] Understand code base better > Fixed :)
+- [X] Walk a mile a day
+- [X] Learn about Ethernet Protocol
+
+### Hobby
+- [X] Fix ImageButton 
+- [ ] Framework Home Page 
+- [ ] Finish post on organizing my year, week, day > 
+- [X] Work on hobby 5 hours
+
+---
+
+## February 24 - March 1 
 ### Personal
 - [ ] 2 Day Rule
 - [ ] Workout 5/7 Days
 - [ ] 2 hours of quality time with Jamie per day
+- [ ] Call Mom and Dad
+- [ ] Call Mike
 - [ ] In bed before 10 pm evrey day
 
 ### School
-- [ ] Meeting with Scheaffer
 
 ### Work
 - [ ] Have a better attitude at work
-- [ ] Understand code base better > Simulator died == production died :(
 - [ ] Walk a mile a day
-- [ ] Learn about Ethernet Protocol
 
 ### Hobby
-- [ ] Fix ImageButton 
-- [ ] Framework Home Page
+- [ ] Open new page on button click
 - [ ] Finish post on organizing my year, week, day 
 - [ ] Work on hobby 5 hours
