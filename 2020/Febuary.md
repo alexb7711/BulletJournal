@@ -149,9 +149,9 @@
 - [ ] 2 Day Rule
 - [ ] Workout 5/7 Days
 - [ ] 2 hours of quality time with Jamie per day
-- [ ] Call Mom and Dad
+- [X] Call Mom and Dad
 - [ ] Call Mike
-- [ ] In bed before 10 pm evrey day
+- [ ] In bed before 10 pm evrey day > Jamie needed me
 
 ### School
 
@@ -160,6 +160,6 @@
 - [ ] Walk a mile a day
 
 ### Hobby
-- [ ] Open new page on button click
+- [X] Open new page on button click > Need to figure out how to stop stacking pages forever
 - [ ] Finish post on organizing my year, week, day 
 - [ ] Work on hobby 5 hours
