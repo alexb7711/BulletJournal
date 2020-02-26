@@ -152,6 +152,7 @@
 - [X] Call Mom and Dad
 - [ ] Call Mike
 - [ ] In bed before 10 pm evrey day > Jamie needed me
+- [ ] Make sure the apartment is clean
 
 ### School
 
