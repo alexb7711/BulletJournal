@@ -161,6 +161,7 @@
 - [ ] Walk a mile a day
 
 ### Hobby
+- [ ] Install Davinci Resolve
 - [X] Open new page on button click > Need to figure out how to stop stacking pages forever
 - [ ] Finish post on organizing my year, week, day 
 - [ ] Work on hobby 5 hours
