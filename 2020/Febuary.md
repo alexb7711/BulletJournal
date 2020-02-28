@@ -151,8 +151,8 @@
 - [ ] 2 hours of quality time with Jamie per day
 - [X] Call Mom and Dad
 - [ ] Call Mike
-- [ ] In bed before 10 pm evrey day > Jamie needed me
-- [ ] Make sure the apartment is clean
+- [ ] In bed before 10 pm every day > Jamie needed me
+- [X] Make sure the apartment is clean
 
 ### School
 
@@ -162,7 +162,7 @@
 
 ### Hobby
 - [ ] Install Davinci Resolve on Laptop
-- [ ] Think of a way to sync projects
+- [ ] Think of a way to sync projects > there is that google drive syncer that I have saved on reddit
 - [ ] Start editing a video
 - [X] Open new page on button click
 	- [ ] Figure out how to stop stacking pages forever
