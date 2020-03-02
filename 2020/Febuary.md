@@ -146,9 +146,9 @@
 
 ## February 24 - March 1 
 ### Personal
-- [ ] 2 Day Rule
-- [ ] Workout 5/7 Days
-- [ ] 2 hours of quality time with Jamie per day
+- [X] 2 Day Rule
+- [X] Workout 5/7 Days
+- [X] 2 hours of quality time with Jamie per day
 - [X] Call Mom and Dad
 - [ ] Call Mike
 - [ ] In bed before 10 pm every day > Jamie needed me
@@ -157,8 +157,8 @@
 ### School
 
 ### Work
-- [ ] Have a better attitude at work
-- [ ] Walk a mile a day
+- [X] Have a better attitude at work
+- [X] Walk a mile a day
 
 ### Hobby
 - [ ] Install Davinci Resolve on Laptop
@@ -167,4 +167,4 @@
 - [X] Open new page on button click
 	- [ ] Figure out how to stop stacking pages forever
 - [ ] Finish post on organizing my year, week, day 
-- [ ] Work on hobby 5 hours
+- [X] Work on hobby 5 hours
