@@ -20,7 +20,7 @@
 - [ ] Workout 5/7 Days
 - [ ] In bed before 10 pm every day
 - [ ] Make sure apartment is clean
-- [ ] Figure out what to do about Jamie
+- [X] Figure out what to do about Jamie
 
 ### School
 - [ ] Wait for decision email
@@ -30,3 +30,8 @@
 - [ ] Walk a mile a day
 
 ### Hobby
+- [ ] Hobby 5 Hours
+- [ ] Post to Blog
+- [ ] Create Timer
+- [ ] Install Davinci
+- [ ] Start Editing Video
