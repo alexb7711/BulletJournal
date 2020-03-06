@@ -33,5 +33,5 @@
 - [ ] Hobby 5 Hours
 - [X] Post to Blog
 - [ ] Create Timer
-- [ ] Install Davinci
+- [ ] Install Davinci > its in the freak AUR dude [https://www.youtube.com/watch?time_continue=108&v=Ml65BPWDO7Y&feature=emb_logo](https://www.youtube.com/watch?time_continue=108&v=Ml65BPWDO7Y&feature=emb_logo)
 - [ ] Start Editing Video
