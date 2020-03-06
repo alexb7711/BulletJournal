@@ -31,7 +31,7 @@
 
 ### Hobby
 - [ ] Hobby 5 Hours
-- [ ] Post to Blog
+- [X] Post to Blog
 - [ ] Create Timer
 - [ ] Install Davinci
 - [ ] Start Editing Video
