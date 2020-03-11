@@ -42,7 +42,6 @@
 - [ ] Workout 5/7 Days
 - [ ] In bed before 10 pm every day
 - [ ] Make sure apartment is clean
-- [ ] Figure out what to do about Jamie
 - [ ] Tell Mom and Dad
 
 ### School
