@@ -52,7 +52,7 @@
 - [ ] Walk a mile a day
 
 ### Hobby
-- [ ] Hobby 5 Hours
-- [ ] Create Timer
-- [ ] Install Davinci > (try again) its in the freak AUR dude [https://www.youtube.com/watch?time_continue=108&v=Ml65BPWDO7Y&feature=emb_logo](https://www.youtube.com/watch?time_continue=108&v=Ml65BPWDO7Y&feature=emb_logo)
+- [X] Hobby 5 Hours
+- [X] Create Timer
+- [X] Install Davinci > (try again) its in the freak AUR dude [https://www.youtube.com/watch?time_continue=108&v=Ml65BPWDO7Y&feature=emb_logo](https://www.youtube.com/watch?time_continue=108&v=Ml65BPWDO7Y&feature=emb_logo) > I think its currently broken
 - [ ] Start Editing Video
