@@ -77,4 +77,5 @@
 - [ ] Animate Timer
 - [ ] Check DaVinci AUR
 - [ ] Start Editing Video
-- [ ] Finish Blog Post
+- [ ] Think of another blog post
+- [ ] Finish another section of time management post
