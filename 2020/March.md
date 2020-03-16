@@ -62,6 +62,8 @@
 - [ ] Workout 5/7 Days
 - [ ] In bed before 10 pm every day 
 - [ ] Make sure apartment is clean
+- [ ] Call Mom and Dad
+- [ ] Jamie Time
 
 ### School
 - [ ] Wait for decision email
