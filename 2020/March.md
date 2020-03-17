@@ -75,7 +75,7 @@
 ### Hobby
 - [ ] Hobby 5 Hours
 - [ ] Animate Timer
-- [ ] Check DaVinci AUR
+- [X] Check DaVinci AUR > Just edit on the desktop
 - [ ] Start Editing Video
 - [ ] Think of another blog post
 - [ ] Finish another section of time management post
