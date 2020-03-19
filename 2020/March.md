@@ -64,9 +64,18 @@
 - [ ] Make sure apartment is clean
 - [ ] Call Mom and Dad
 - [ ] Jamie Time
+- [ ] Anniversary
+  - [ ] Edit Video
+  - [ ] Text her over snapchat like we used to
+  - [ ] Pick up some jewlery thing from target
+  - [ ] Burgers
+  - [ ] Game night
+  - [ ] Movie night
+  - [ ] Sleep on the pullout couch
+  - [ ] String lights in living room
 
 ### School
-- [ ] Wait for decision email
+- [X] Wait for decision email :)
 
 ### Work 
 - [ ] Have a better attitude at work
@@ -74,8 +83,10 @@
 
 ### Hobby
 - [ ] Hobby 5 Hours
-- [ ] Animate Timer
+- [ ] Learn how to animate in Flutter
+  - [X] Get an animation working
+  - [ ] Animate timer how I want
 - [X] Check DaVinci AUR > Just edit on the desktop
 - [ ] Start Editing Video
-- [ ] Think of another blog post
+- [X] Think of another blog post
 - [ ] Finish another section of time management post
