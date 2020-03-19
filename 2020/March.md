@@ -66,6 +66,8 @@
 - [ ] Jamie Time
 - [ ] Anniversary
   - [ ] Edit Video
+    - [ ] Pick out songs
+      * 
   - [ ] Text her over snapchat like we used to
   - [ ] Pick up some jewlery thing from target
   - [ ] Burgers
