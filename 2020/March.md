@@ -67,7 +67,7 @@
 - [ ] Anniversary
   - [ ] Edit Video
     - [ ] Pick out songs
-      * 
+      * Girl - https://open.spotify.com/track/21xRlfE6OjTAFQ4wd9u8IU
   - [ ] Text her over snapchat like we used to
   - [ ] Pick up some jewlery thing from target
   - [ ] Burgers
