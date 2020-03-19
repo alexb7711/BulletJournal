@@ -66,8 +66,15 @@
 - [ ] Jamie Time
 - [ ] Anniversary
   - [ ] Edit Video
-    - [ ] Pick out songs
-      * Girl - https://open.spotify.com/track/21xRlfE6OjTAFQ4wd9u8IU
+    - [X] Pick out songs
+       - [X] Girl - https://open.spotify.com/track/21xRlfE6OjTAFQ4wd9u8IU
+       - [X] I Do - https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu
+       - [X] 2021 - https://open.spotify.com/track/6UryEVkqPDLliZOG4UmFi9
+       - [ ] Better with you - https://open.spotify.com/track/1FjHxl8B28sXj7eVfxdST4
+       - [X] Kingston - https://open.spotify.com/track/0EDQwboQDmswDRn58wcslg
+       - [ ] Coffee - https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l (But ticktock sorta ruined it)
+       - [X] State Lines - https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b (has to be in it)
+       - [ ] Nothing - https://open.spotify.com/track/6AxRGtu8gdKPeynxdHsmzC (sorta overused)
   - [ ] Text her over snapchat like we used to
   - [ ] Pick up some jewlery thing from target
   - [ ] Burgers
