@@ -63,8 +63,9 @@
 - [X] In bed before 10 pm every day 
 - [ ] Make sure apartment is clean
 - [X] Call Mom and Dad
-- [ ] Jamie Time
+- [X] Jamie Time
 - [ ] Anniversary
+- [ ] BuildABear
   - [ ] Edit Video
     - [X] Pick out songs
        - [X] Girl - https://open.spotify.com/track/21xRlfE6OjTAFQ4wd9u8IU
@@ -99,4 +100,5 @@
 - [X] Check DaVinci AUR > Just edit on the desktop
 - [ ] Start Editing Video
 - [X] Think of another blog post
-- [ ] Finish another section of time management post
+- [X] Write another blog post
+- [X] Finish another section of time management post
