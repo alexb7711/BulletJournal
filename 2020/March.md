@@ -60,9 +60,9 @@
 ### Personal
 - [ ] 2 Day Rule
 - [ ] Workout 5/7 Days
-- [ ] In bed before 10 pm every day 
+- [X] In bed before 10 pm every day 
 - [ ] Make sure apartment is clean
-- [ ] Call Mom and Dad
+- [X] Call Mom and Dad
 - [ ] Jamie Time
 - [ ] Anniversary
   - [ ] Edit Video
@@ -85,9 +85,10 @@
 
 ### School
 - [X] Wait for decision email :)
+- [ ] Start figuring out comittee and courses
 
 ### Work 
-- [ ] Have a better attitude at work
+- [X] Have a better attitude at work
 - [ ] Walk a mile a day
 
 ### Hobby
