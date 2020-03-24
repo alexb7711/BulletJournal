@@ -122,6 +122,7 @@
 
 ### Hobby
 - [X] Hobby 5 Hours
+- [ ] Fork Luke's st and dwm
 - [ ] Get Arch working
 - [ ] Animate timer how I want
 - [ ] Start Editing Video
