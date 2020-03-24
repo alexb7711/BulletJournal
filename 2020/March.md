@@ -58,15 +58,15 @@
 
 ## March 16 - March 22
 ### Personal
-- [ ] 2 Day Rule
-- [ ] Workout 5/7 Days
+- [X] 2 Day Rule
+- [X] Workout 5/7 Days
 - [X] In bed before 10 pm every day 
-- [ ] Make sure apartment is clean
+- [X] Make sure apartment is clean
 - [X] Call Mom and Dad
 - [X] Jamie Time
-- [ ] Anniversary
+- [X] Anniversary
 - [ ] BuildABear
-  - [ ] Edit Video
+  - [X] Edit Video
     - [X] Pick out songs
        - [X] Girl - https://open.spotify.com/track/21xRlfE6OjTAFQ4wd9u8IU
        - [X] I Do - https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu
@@ -90,10 +90,10 @@
 
 ### Work 
 - [X] Have a better attitude at work
-- [ ] Walk a mile a day
+- [X] Walk a mile a day
 
 ### Hobby
-- [ ] Hobby 5 Hours
+- [X] Hobby 5 Hours
 - [ ] Learn how to animate in Flutter
   - [X] Get an animation working
   - [ ] Animate timer how I want
@@ -102,3 +102,27 @@
 - [X] Think of another blog post
 - [X] Write another blog post
 - [X] Finish another section of time management post
+
+## March 23 - March 29
+### Personal
+- [ ] 2 Day Rule
+- [ ] Workout 5/7 Days
+- [ ] In bed before 10 pm every day 
+- [ ] Make sure apartment is clean
+- [ ] Call Mom and Dad
+- [ ] Jamie Time
+
+### School
+- [ ] Bump Aaron?
+- [ ] Start figuring out comittee and courses
+
+### Work 
+- [ ] Have a better attitude at work
+- [ ] Walk a mile a day
+
+### Hobby
+- [X] Hobby 5 Hours
+- [ ] Get Arch working
+- [ ] Animate timer how I want
+- [ ] Start Editing Video
+- [ ] Finish another section of time management post
