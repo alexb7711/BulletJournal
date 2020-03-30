@@ -105,25 +105,66 @@
 
 ## March 23 - March 29
 ### Personal
+- [X] 2 Day Rule
+- [X] Workout 5/7 Days
+- [X] In bed before 10 pm every day 
+- [X] Make sure apartment is clean
+- [X] Call Mom and Dad
+- [X] Jamie Time
+
+### School
+- [X] Bump Aaron?
+- [ ] Start figuring out comittee and courses > Next Tuesday
+
+### Work 
+- [X] Have a better attitude at work
+- [X] Walk a mile a day
+
+### Hobby
+- [X] Hobby 5 Hours
+- [X] Fork Luke's st and dwm
+- [X] Get Arch working
+- [ ] Animate timer how I want > setting up Arch
+- [ ] Start Editing Video > setting up Arch
+- [ ] Finish another section of time management post > settig up Arch
+
+## March 30 - April 5
+### Personal
 - [ ] 2 Day Rule
 - [ ] Workout 5/7 Days
+  - [ ] Yoga 2 times
 - [ ] In bed before 10 pm every day 
 - [ ] Make sure apartment is clean
 - [ ] Call Mom and Dad
+- [ ] Send Mike a meme
 - [ ] Jamie Time
 
 ### School
-- [ ] Bump Aaron?
-- [ ] Start figuring out comittee and courses
+- [ ] Meeting with Greg on Tuesday
 
 ### Work 
 - [ ] Have a better attitude at work
 - [ ] Walk a mile a day
 
 ### Hobby
-- [X] Hobby 5 Hours
-- [ ] Fork Luke's st and dwm
-- [ ] Get Arch working
-- [ ] Animate timer how I want
-- [ ] Start Editing Video
+- [ ] Hobby 5 Hours
+- [ ] Arch 
+  - [ ] slstatus scripts [https://dwm.suckless.org/status_monitor/https://dwm.suckless.org/status_monitor/](https://dwm.suckless.org/status_monitor/)
+  - [ ] Put borders on centered master
+  - [ ] NeoMutt
+  - [ ] Monitor Swapper 
+  - [ ] Audio Swapper
+  - [ ] Install Flutter
+  - [ ] Install an Android emulator
+  - [ ] Install steam
+  - [ ] Install OBS
+  - [ ] Install Davinci? 
+  - [ ] Install redshift
+  - [ ] Jekyll
+- [ ] Animate timer how I want > setting up Arch
+- [ ] Start Editing Video > setting up Arch
 - [ ] Finish another section of time management post
+- [ ] Update managing dot files with new xdg stuff that you learned
+- [ ] Blog Ideas
+  - [ ] How to install Arch Linux
+  - [ ] Creating a installer script
