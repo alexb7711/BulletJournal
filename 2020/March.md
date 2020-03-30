@@ -151,16 +151,17 @@
 - [ ] Arch 
   - [ ] slstatus scripts [https://dwm.suckless.org/status_monitor/](https://dwm.suckless.org/status_monitor/)
   - [ ] Put borders on centered master
-  - [ ] NeoMutt
+  - [ ] NeoMutt [https://github.com/LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard)
   - [ ] Monitor Swapper 
-  - [ ] Audio Swapper
-  - [ ] Install Flutter
-  - [ ] Install an Android emulator
+  - [ ] Set up Alsa [https://wiki.archlinux.org/index.php/Advanced_Linux_Sound_Architecture#Set_the_default_sound_card](https://wiki.archlinux.org/index.php/Advanced_Linux_Sound_Architecture#Set_the_default_sound_card)
+    - [ ] Audio Swapper
+  - [ ] Install Flutter [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
+    - [ ] Install an Android emulator
   - [ ] Install steam
   - [ ] Install OBS
   - [ ] Install Davinci? 
-  - [ ] Install redshift
-  - [ ] Jekyll
+  - [ ] Install redshift [https://wiki.archlinux.org/index.php/Redshift](https://wiki.archlinux.org/index.php/Redshift)
+  - [ ] Jekyll [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
 - [ ] Animate timer how I want > setting up Arch
 - [ ] Start Editing Video > setting up Arch
 - [ ] Finish another section of time management post
@@ -168,3 +169,7 @@
 - [ ] Blog Ideas
   - [ ] How to install Arch Linux
   - [ ] Creating a installer script
+  - [ ] Vim auto scripts
+  - [ ] Swapping to Arch
+  - [ ] Swapping to NeoVim
+  - [ ] Vim tips and tricks (Ctags, auto complete, handling merges with vimdiff or neovim -d)
