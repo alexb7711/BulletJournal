@@ -164,6 +164,8 @@
   - [ ] Install Davinci? 
   - [ ] Install redshift [https://wiki.archlinux.org/index.php/Redshift](https://wiki.archlinux.org/index.php/Redshift)
   - [ ] Jekyll [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
+  - [ ] Dash
+  
 - [ ] Animate timer how I want > setting up Arch
 - [ ] Start Editing Video > setting up Arch
 - [ ] Finish another section of time management post
