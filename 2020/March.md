@@ -157,6 +157,7 @@
     - [ ] Audio Swapper
   - [ ] Install Flutter [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
     - [ ] Install an Android emulator
+  - [ ] Install Hermit font [https://github.com/ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
   - [ ] Install steam
   - [ ] Install OBS
   - [ ] Install Davinci? 
