@@ -150,6 +150,7 @@
 - [ ] Hobby 5 Hours
 - [ ] Arch 
   - [ ] Start backuping up configurations
+  - [ ] store [https://youtu.be/MJBVA4LeJKA](https://youtu.be/MJBVA4LeJKA)
   - [ ] rsync
   - [ ] nnn [https://wiki.archlinux.org/index.php/Nnn#Configuration](https://wiki.archlinux.org/index.php/Nnn#Configuration)
     - [ ] [https://github.com/jarun/nnn/wiki](https://github.com/jarun/nnn/wiki)
@@ -172,6 +173,7 @@
   - [ ] Install redshift [https://wiki.archlinux.org/index.php/Redshift](https://wiki.archlinux.org/index.php/Redshift)
   - [ ] Jekyll [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
   - [ ] Dash
+  - [ ] Vim Pluggins [https://youtu.be/RGOsE3UWqhI](https://youtu.be/RGOsE3UWqhI)
   - [ ] YouTube Client [https://github.com/mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube)
   - [ ] Newsboat [https://wiki.archlinux.org/index.php/Newsboat](https://wiki.archlinux.org/index.php/Newsboat)
   - [ ] st
