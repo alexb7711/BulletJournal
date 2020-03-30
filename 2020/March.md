@@ -149,7 +149,7 @@
 ### Hobby
 - [ ] Hobby 5 Hours
 - [ ] Arch 
-  - [ ] slstatus scripts [https://dwm.suckless.org/status_monitor/https://dwm.suckless.org/status_monitor/](https://dwm.suckless.org/status_monitor/)
+  - [ ] slstatus scripts [https://dwm.suckless.org/status_monitor/](https://dwm.suckless.org/status_monitor/)
   - [ ] Put borders on centered master
   - [ ] NeoMutt
   - [ ] Monitor Swapper 
