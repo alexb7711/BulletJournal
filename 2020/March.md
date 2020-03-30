@@ -171,6 +171,15 @@
   - [ ] Jekyll [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
   - [ ] Dash
   - [ ] YouTube Client [https://github.com/mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube)
+  - [ ] st
+    - [ ] alpha
+    - [ ] anysize
+    - [ ] bold is not bright
+    - [ ] clipboard (keyboard_select)
+    - [ ] copyurl
+    - [ ] delkey
+    - [ ] gruvbox
+    - [ ] 
 - [ ] Animate timer how I want > setting up Arch
 - [ ] Start Editing Video > setting up Arch
 - [ ] Finish another section of time management post
