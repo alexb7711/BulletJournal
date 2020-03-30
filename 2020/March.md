@@ -149,23 +149,28 @@
 ### Hobby
 - [ ] Hobby 5 Hours
 - [ ] Arch 
-  - [ ] Figure out why neovim won't copy to clipboard
+  - [ ] Start backuping up configurations
+  - [ ] rsync
+  - [ ] Figure out why neovim won't copy to clipboard [https://github.com/neovim/neovim/issues/7945](https://github.com/neovim/neovim/issues/7945)
   - [ ] slstatus scripts [https://dwm.suckless.org/status_monitor/](https://dwm.suckless.org/status_monitor/)
   - [ ] Put borders on centered master
   - [ ] NeoMutt [https://github.com/LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard)
   - [ ] Monitor Swapper 
   - [ ] Set up Alsa [https://wiki.archlinux.org/index.php/Advanced_Linux_Sound_Architecture#Set_the_default_sound_card](https://wiki.archlinux.org/index.php/Advanced_Linux_Sound_Architecture#Set_the_default_sound_card)
-    - [ ] Audio Swapper
+    - [ ] Audio Swapper [https://www.reddit.com/r/suckless/comments/c64pv8/controlling_audiobacklight_through_keys_in_dwm/](https://www.reddit.com/r/suckless/comments/c64pv8/controlling_audiobacklight_through_keys_in_dwm/)
   - [ ] Install Flutter [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
     - [ ] Install an Android emulator
   - [ ] Install Hermit font [https://github.com/ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
   - [ ] Install steam
   - [ ] Install OBS
+  - [ ] LightDM
+    - [ ] Locking Screen with LightDM [https://www.togaware.com/linux/survivor/Locking_Screen.html](https://www.togaware.com/linux/survivor/Locking_Screen.html)
+  - [ ] Loggout UI [https://github.com/okitavera/clearine](https://github.com/okitavera/clearine)
   - [ ] Install Davinci? 
   - [ ] Install redshift [https://wiki.archlinux.org/index.php/Redshift](https://wiki.archlinux.org/index.php/Redshift)
   - [ ] Jekyll [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
   - [ ] Dash
-  
+  - [ ] YouTube Client [https://github.com/mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube)
 - [ ] Animate timer how I want > setting up Arch
 - [ ] Start Editing Video > setting up Arch
 - [ ] Finish another section of time management post
