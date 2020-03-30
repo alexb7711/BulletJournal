@@ -149,6 +149,7 @@
 ### Hobby
 - [ ] Hobby 5 Hours
 - [ ] Arch 
+  - [ ] Figure out why neovim won't copy to clipboard
   - [ ] slstatus scripts [https://dwm.suckless.org/status_monitor/](https://dwm.suckless.org/status_monitor/)
   - [ ] Put borders on centered master
   - [ ] NeoMutt [https://github.com/LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard)
