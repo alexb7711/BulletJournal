@@ -171,15 +171,17 @@
   - [ ] Jekyll [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
   - [ ] Dash
   - [ ] YouTube Client [https://github.com/mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube)
+  - [ ] Newsboat [https://wiki.archlinux.org/index.php/Newsboat](https://wiki.archlinux.org/index.php/Newsboat)
   - [ ] st
     - [ ] alpha
     - [ ] anysize
     - [ ] bold is not bright
-    - [ ] clipboard (keyboard_select)
+    - [ ] clipboard
     - [ ] copyurl
     - [ ] delkey
     - [ ] gruvbox
-    - [ ] 
+    - [ ] keyboard_select
+    - [ ] scrollback
 - [ ] Animate timer how I want > setting up Arch
 - [ ] Start Editing Video > setting up Arch
 - [ ] Finish another section of time management post
