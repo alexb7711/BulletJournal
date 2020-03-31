@@ -154,6 +154,7 @@
   - [ ] rsync
   - [ ] nnn [https://wiki.archlinux.org/index.php/Nnn#Configuration](https://wiki.archlinux.org/index.php/Nnn#Configuration)
     - [ ] [https://github.com/jarun/nnn/wiki](https://github.com/jarun/nnn/wiki)
+  - [ ] Ranger neovim pluggin [https://github.com/francoiscabrol/ranger.vim](https://github.com/francoiscabrol/ranger.vim)
   - [ ] Figure out why neovim won't copy to clipboard [https://github.com/neovim/neovim/issues/7945](https://github.com/neovim/neovim/issues/7945)
   - [ ] slstatus scripts [https://dwm.suckless.org/status_monitor/](https://dwm.suckless.org/status_monitor/)
   - [ ] Put borders on centered master
