@@ -140,57 +140,62 @@
 - [ ] Jamie Time
 
 ### School
-- [ ] Meeting with Greg on Tuesday
+- [X] Meeting with Greg on Tuesday
+- [ ] Look at classes
+- [ ] Email Jennifer
 
 ### Work 
 - [ ] Have a better attitude at work
 - [ ] Walk a mile a day
 
 ### Hobby
-- [ ] Hobby 5 Hours
+- [X] Hobby 5 Hours
 - [ ] Arch 
-  - [ ] Start backuping up configurations
-  - [ ] store [https://youtu.be/MJBVA4LeJKA](https://youtu.be/MJBVA4LeJKA)
-  - [ ] rsync
-  - [ ] nnn [https://wiki.archlinux.org/index.php/Nnn#Configuration](https://wiki.archlinux.org/index.php/Nnn#Configuration)
-    - [ ] [https://github.com/jarun/nnn/wiki](https://github.com/jarun/nnn/wiki)
-  - [ ] Ranger neovim pluggin [https://github.com/francoiscabrol/ranger.vim](https://github.com/francoiscabrol/ranger.vim)
-  - [ ] Figure out why neovim won't copy to clipboard [https://github.com/neovim/neovim/issues/7945](https://github.com/neovim/neovim/issues/7945)
-  - [ ] slstatus scripts [https://dwm.suckless.org/status_monitor/](https://dwm.suckless.org/status_monitor/)
-  - [ ] Put borders on centered master
-  - [ ] NeoMutt [https://github.com/LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard)
-  - [ ] Monitor Swapper 
-  - [ ] Set up Alsa [https://wiki.archlinux.org/index.php/Advanced_Linux_Sound_Architecture#Set_the_default_sound_card](https://wiki.archlinux.org/index.php/Advanced_Linux_Sound_Architecture#Set_the_default_sound_card)
+  - [X] Start backuping up configurations
+  - [X] store [https://youtu.be/MJBVA4LeJKA](https://youtu.be/MJBVA4LeJKA)
+  - [X] rsync
+  - [X] nnn [https://wiki.archlinux.org/index.php/Nnn#Configuration](https://wiki.archlinux.org/index.php/Nnn#Configuration)
+    - [X] [https://github.com/jarun/nnn/wiki](https://github.com/jarun/nnn/wiki)
+  - [X] Ranger neovim pluggin [https://github.com/francoiscabrol/ranger.vim](https://github.com/francoiscabrol/ranger.vim)
+  - [X] Figure out why neovim won't copy to clipboard [https://github.com/neovim/neovim/issues/7945](https://github.com/neovim/neovim/issues/7945)
+  - [X] slstatus scripts [https://dwm.suckless.org/status_monitor/](https://dwm.suckless.org/status_monitor/)
+  - [X] Put borders on centered master
+  - [X] NeoMutt [https://github.com/LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard)
+  - [X] Monitor Swapper 
+  - [X] Set up Alsa [https://wiki.archlinux.org/index.php/Advanced_Linux_Sound_Architecture#Set_the_default_sound_card](https://wiki.archlinux.org/index.php/Advanced_Linux_Sound_Architecture#Set_the_default_sound_card)
     - [ ] Audio Swapper [https://www.reddit.com/r/suckless/comments/c64pv8/controlling_audiobacklight_through_keys_in_dwm/](https://www.reddit.com/r/suckless/comments/c64pv8/controlling_audiobacklight_through_keys_in_dwm/)
   - [ ] Install Flutter [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
     - [ ] Install an Android emulator
-  - [ ] Install Hermit font [https://github.com/ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+  - [X] Install Hermit font [https://github.com/ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
   - [ ] Install steam
   - [ ] Install OBS
-  - [ ] LightDM
-    - [ ] Locking Screen with LightDM [https://www.togaware.com/linux/survivor/Locking_Screen.html](https://www.togaware.com/linux/survivor/Locking_Screen.html)
+  - [X] LightDM
+    - [X] Locking Screen with LightDM [https://www.togaware.com/linux/survivor/Locking_Screen.html](https://www.togaware.com/linux/survivor/Locking_Screen.html)
   - [ ] Loggout UI [https://github.com/okitavera/clearine](https://github.com/okitavera/clearine)
   - [ ] Install Davinci? 
   - [ ] Install redshift [https://wiki.archlinux.org/index.php/Redshift](https://wiki.archlinux.org/index.php/Redshift)
   - [ ] Jekyll [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
   - [ ] Dash
-  - [ ] Vim Pluggins [https://youtu.be/RGOsE3UWqhI](https://youtu.be/RGOsE3UWqhI)
+  - [X] Vim Pluggins [https://youtu.be/RGOsE3UWqhI](https://youtu.be/RGOsE3UWqhI)
   - [ ] YouTube Client [https://github.com/mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube)
   - [ ] Newsboat [https://wiki.archlinux.org/index.php/Newsboat](https://wiki.archlinux.org/index.php/Newsboat)
-  - [ ] st
-    - [ ] alpha
-    - [ ] anysize
-    - [ ] bold is not bright
-    - [ ] clipboard
-    - [ ] copyurl
-    - [ ] delkey
-    - [ ] gruvbox
-    - [ ] keyboard_select
-    - [ ] scrollback
+  - [ ] MPV
+  - [ ] youtube-dl
+  - [X] st
+    - [X] alpha
+    - [X] anysize
+    - [X] bold is not bright
+    - [X] clipboard
+    - [X] copyurl
+    - [X] delkey
+    - [X] gruvbox
+    - [X] keyboard_select
+    - [X] scrollback
+  - [X] Bluetooth Headphones
 - [ ] Animate timer how I want > setting up Arch
 - [ ] Start Editing Video > setting up Arch
 - [ ] Finish another section of time management post
-- [ ] Update managing dot files with new xdg stuff that you learned
+- [X] Update managing dot files with new stow stuff that you learned
 - [ ] Blog Ideas
   - [ ] How to install Arch Linux
   - [ ] Creating a installer script
@@ -198,3 +203,6 @@
   - [ ] Swapping to Arch
   - [ ] Swapping to NeoVim
   - [ ] Vim tips and tricks (Ctags, auto complete, handling merges with vimdiff or neovim -d)
+  - [ ] dwm
+  - [ ] st
+  - [ ] dwmblocks
